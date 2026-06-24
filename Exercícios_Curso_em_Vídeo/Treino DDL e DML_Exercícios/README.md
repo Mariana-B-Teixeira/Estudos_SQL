@@ -34,7 +34,7 @@ Este diretório reúne os exercícios práticos de **DDL (Data Definition Langua
 3. Execute-os passo
 
 ---
-⭐ Desenvolvido por Mariana B. Teixeira
+⭐ Desenvolvido por **Mariana B. Teixeira**
 
 Esta pasta é voltada para treinar comandos básicos e intermediários.
 
